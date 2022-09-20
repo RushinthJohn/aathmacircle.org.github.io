@@ -1,2 +1,3 @@
-# aathmacircle.org.github.io
-Aathma Circle Organization website repo
+# Aathma Circle Organization website repo
+
+This repo contains Aathma Circle Organization's HTML files.
